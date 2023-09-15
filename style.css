@@ -27,5 +27,13 @@ img{
 span{
     font-weight: bold;
 }
+.certificado1 {
+    background: no-repeat url(primer_cer.png);
+    background-size: cover;
+    background-position: center;
+    width: 350px;
+    height: 300px;
+}
+
 
 
